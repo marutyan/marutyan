@@ -18,7 +18,7 @@ permalink: /
  
 <img src="https://user-images.githubusercontent.com/132348090/235644132-446c7d9c-a1f6-40f7-a5cf-2afdc2f94f8b.png" width="150px"><img src="https://user-images.githubusercontent.com/132348090/235646610-3ba5d473-9abd-46ae-b904-930c3faf447a.png" width="300px">
 
-### 2. 趣味
+### 2.趣味
 
  Dlikerは名前にもあるように典型的なパークDオタである。なお特技として東京ディズニーリゾート内の写真からほぼほぼ正確な位置を当てることができる模様。
  
@@ -26,7 +26,7 @@ permalink: /
  
  そして地元にしまなみ海道があるのでもちろんんロードバイクも乗っている。でも文化会サイクリング部は怖いので行ってない。サークルは中身がほぼ同窓会の非公認旅行サークルを作る（予定）。
 
- ### 3. SNS
+ ### 3.SNS
  
  一応、高大連携ではあるもののTwitterとInstagramは一応やっているので暇があればフォローして欲しい。
 
