@@ -28,7 +28,7 @@ permalink: /
  ### 3. SNS
  一応、高大連携ではあるもののTwitterとInstagramは一応やっているので暇があればフォローして欲しい。
 
-Twitter（https://twitter.com/marutyan_D_road）　
+[リンク](https://twitter.com/marutyan_D_road)
 
 Instagram（）
 
