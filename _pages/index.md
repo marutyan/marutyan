@@ -25,9 +25,7 @@ permalink: /
  <img src="https://user-images.githubusercontent.com/132348090/236721261-f070d2b2-3900-4ced-a469-4923ec02102a.png" width="450px">
  
  そして地元にしまなみ海道があるのでもちろんんロードバイクも乗っている。でも文化会サイクリング部は怖いので行ってない。サークルは中身がほぼ同窓会の非公認旅行サークルを作る（予定）。
-
- ### 3.SNS
- 
+### 3.SNS
  一応、高大連携ではあるもののTwitterとInstagramは一応やっているので暇があればフォローして欲しい。
 
 [Twitter](https://twitter.com/marutyan_D_road)  [Instagram](https://www.instagram.com/03marutyan10/)
