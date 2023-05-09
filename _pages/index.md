@@ -32,9 +32,8 @@ permalink: /
 
 [Twitter](https://twitter.com/marutyan_D_road)  [Instagram](https://www.instagram.com/03marutyan10/)
 
-なおTwitterで宣伝しろと言われた気がしたので
-# ゆうだい先輩はゆうぽんぽん先輩あるいはぽんセンである
-
+Twitterで宣伝しろと言われたので
+## ゆうだい先輩はゆうぽんぽん先輩あるいはぽんセンである
 と書いておく
 
 
