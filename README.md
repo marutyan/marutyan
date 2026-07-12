@@ -1,13 +1,43 @@
-# Hi there, I'm Keisuke Marutani (Marutyan) 👋
+<div align="center">
 
-🎓 **Computer Science Student @ Kindai University** |  **Computer Vision & Deep Learning**
+# Hi, I'm Keisuke Marutani (Marutyan) 👋
 
-I'm interested in real-world understanding. (e.g., Object detection, Multi-Object Tracking, Segmentation, Autonomous Driving, World Model, Physical AI)
+### Computer Science Student @ Kindai University  
+**Computer Vision · Deep Learning · Real-World Understanding**
 
-## 🌐 Connect with Me…
+<p>
+  <a href="https://www.kindai.ac.jp/informatics/">
+    <img src="https://img.shields.io/badge/Kindai_University-Computer_Science-8B0000?style=flat-square" alt="Kindai University">
+  </a>
+  <a href="https://www.kindai.ac.jp/informatics/education/laboratory/habe/">
+    <img src="https://img.shields.io/badge/Laboratory-Computer_Vision_Lab-6C63FF?style=flat-square" alt="Computer Vision Laboratory">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Deep_Learning-FF6F00?style=flat-square" alt="Deep Learning">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/keisuke-marutani/)
-[![Twitter](https://img.shields.io/badge/Twitter-marutyan_D_road-1da1f2?style=flat&logo=twitter&labelColor=1da1f2)](https://x.com/marutyan_D_road)
+---
 
-https://marutyan.github.io/homepage-keisuke-marutani/index.html
+### 🔭 Research Interests
 
+`Object Detection` · `Multi-Object Tracking` · `Segmentation`  
+`Autonomous Driving` · `World Models` · `Physical AI`
+
+I am interested in building AI systems that understand and interact with the real world.
+
+---
+
+### 🌐 Connect
+
+<p>
+  <a href="https://marutyan.github.io/homepage-keisuke-marutani/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-Website-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/keisuke-marutani/">
+    <img src="https://img.shields.io/badge/LinkedIn-Keisuke_Marutani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/marutyan_D_road">
+    <img src="https://img.shields.io/badge/X-@marutyan__D__road-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
+
+</div>
