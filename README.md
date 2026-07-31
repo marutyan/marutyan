@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Kindai_University-Computer_Science-8B0000?style=flat-square" alt="Kindai University">
   </a>
   <a href="https://www.kindai.ac.jp/informatics/education/laboratory/habe/">
-    <img src="https://img.shields.io/badge/Laboratory-Computer_Vision_Lab-6C63FF?style=flat-square" alt="Computer Vision Laboratory">
+    <img src="https://img.shields.io/badge/Laboratory-Computer_Vision_Lab.-6C63FF?style=flat-square" alt="Computer Vision Laboratory">
   </a>
   <img src="https://img.shields.io/badge/Focus-Deep_Learning-FF6F00?style=flat-square" alt="Deep Learning">
 </p>
