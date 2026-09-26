@@ -2,7 +2,7 @@
 
 # Hi, I'm Keisuke Marutani (Marutyan) 👋
 
-### Computer Science Student @ Kindai University  
+### Computer Science Student @Kindai University  
 **Computer Vision · Deep Learning · Real-World Understanding**
 
 <p>
